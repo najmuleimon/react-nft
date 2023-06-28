@@ -1,0 +1,30 @@
+/* --------------- header -------------- */
+@media screen and (max-width: 1023px) {
+  .mob-overlay{
+    @apply fixed inset-0 bg-black/40 h-screen w-screen z-40 opacity-0 invisible;
+  }
+
+  .mob-overlay.show{
+    @apply opacity-100 visible;
+  }
+
+  .menu-area{
+    left: -350px;
+    max-width: 350px;
+    @apply fixed top-0 h-screen w-full z-50 px-4 py-8 bg-white;
+  }
+
+  .menu-inner{
+    @apply flex-col justify-start items-start;
+  }
+
+  .menu-area.show-menu{
+    @apply left-0;
+  }
+
+  .menu-area ul{
+    @apply flex-col items-start gap-y-4;
+  }
+}
+
+/* --------------- banner -------------- */

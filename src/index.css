@@ -1,0 +1,31 @@
+@import url('https://fonts.googleapis.com/css2?family=DM+Sans:wght@400;500;700&display=swap');
+
+@tailwind base;
+@tailwind components;
+@tailwind utilities;
+
+@font-face {
+  font-family: 'integral';
+  src: url('../src/assets/fonts/Fontspring-DEMO-integralcf-bold.otf');
+}
+
+:root {
+  --dm-sans: 'DM Sans', sans-serif;
+  --integral : 'integral';
+}
+
+body{
+  font-family: var(--dm-sans);
+}
+
+input, 
+textarea,
+input:focus, 
+textarea:focus{
+  outline: none;
+  border: 0;
+}
+
+a{
+  display: inline-block;
+}

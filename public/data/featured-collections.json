@@ -1,0 +1,26 @@
+[
+  {
+    "id": "1",
+    "image": "nft/collection-3.png",
+    "title": "Amazing Collection",
+    "author": "Arkhan",
+    "authorImg": "author/img-1.png",
+    "item": "54"
+  },
+  {
+    "id": "2",
+    "image": "nft/collection-2.png",
+    "title": "Amazing Collection",
+    "author": "Arkhan",
+    "authorImg": "author/img-1.png",
+    "item": "54"
+  },
+  {
+    "id": "3",
+    "image": "nft/collection-1.png",
+    "title": "Amazing Collection",
+    "author": "Arkhan",
+    "authorImg": "author/img-1.png",
+    "item": "54"
+  }
+]

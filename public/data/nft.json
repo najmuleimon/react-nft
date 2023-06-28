@@ -1,0 +1,402 @@
+[
+  {
+    "id": "1",
+    "image": "nft/item-1.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "art",
+    "stock": "10",
+    "price": "0.25",
+    "placedBid": "10",
+    "timeLeft": "2023-07-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "2",
+    "image": "nft/item-2.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "Celebrities",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-12-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "3",
+    "image": "nft/item-3.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "Gaming",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-11-30T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "4",
+    "image": "nft/item-4.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "Sport",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-10-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "5",
+    "image": "nft/item-5.png",
+    "authorImg": "author/img-1.png",
+    "author": "ArtCrypto",
+    "category": "music",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-09-30T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "6",
+    "image": "nft/item-6.png",
+    "authorImg": "author/img-1.png",
+    "author": "This NFT",
+    "category": "crypto",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-08-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "7",
+    "image": "nft/item-7.png",
+    "authorImg": "author/img-1.png",
+    "author": "NameCrypto",
+    "category": "art",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-07-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "8",
+    "image": "nft/item-1.png",
+    "authorImg": "author/img-1.png",
+    "author": "KingCrypto",
+    "category": "celebrities",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-08-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "9",
+    "image": "nft/item-2.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "gaming",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-09-30T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "10",
+    "image": "nft/item-3.png",
+    "authorImg": "author/img-1.png",
+    "author": "ArtCrypto",
+    "category": "sport",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-10-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "11",
+    "image": "nft/item-4.png",
+    "authorImg": "author/img-1.png",
+    "author": "This NFT",
+    "category": "music",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-09-30T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "12",
+    "image": "nft/item-5.png",
+    "authorImg": "author/img-1.png",
+    "author": "NameCrypto",
+    "category": "crypto",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-08-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "13",
+    "image": "nft/item-6.png",
+    "authorImg": "author/img-1.png",
+    "author": "KingCrypto",
+    "category": "art",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-07-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "14",
+    "image": "nft/item-7.png",
+    "authorImg": "author/img-1.png",
+    "author": "The Futr Abstr",
+    "category": "celebrities",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-08-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "15",
+    "image": "nft/item-1.png",
+    "authorImg": "author/img-1.png",
+    "author": "ArtCrypto",
+    "category": "gaming",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-12-31T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  },
+  {
+    "id": "16",
+    "image": "nft/item-2.png",
+    "authorImg": "author/img-1.png",
+    "author": "This NFT",
+    "category": "Sport",
+    "stock": "8",
+    "price": "0.25",
+    "placedBid": "1",
+    "timeLeft": "2023-11-30T23:59:59",
+    "biders": [
+      {
+        "image": "author/img-2.png"
+      },
+      {
+        "image": "author/img-3.png"
+      },
+      {
+        "image": "author/img-4.png"
+      },
+      {
+        "image": "author/img-5.png"
+      }
+    ]
+  }
+]

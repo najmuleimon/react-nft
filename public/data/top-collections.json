@@ -1,0 +1,42 @@
+[
+  {
+    "id": "1",
+    "image": "nft/item-1.png",
+    "price": "19769.39",
+    "ratio": "26.52",
+    "color": "#14C8B0",
+    "verified": true
+  },
+  {
+    "id": "2",
+    "image": "nft/item-1.png",
+    "price": "19769.39",
+    "ratio": "26.52",
+    "color": "#FF002E",
+    "verified": false
+  },
+  {
+    "id": "3",
+    "image": "nft/item-1.png",
+    "price": "19769.39",
+    "ratio": "26.52",
+    "color": "#14C8B0",
+    "verified": false
+  },
+  {
+    "id": "4",
+    "image": "nft/item-1.png",
+    "price": "19769.39",
+    "ratio": "26.52",
+    "color": "#14C8B0",
+    "verified": true
+  },
+  {
+    "id": "5",
+    "image": "nft/item-1.png",
+    "price": "19769.39",
+    "ratio": "26.52",
+    "color": "#FF002E",
+    "verified": false
+  }
+]
